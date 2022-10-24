@@ -49,7 +49,6 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <br>   
 <iframe src="https://public.tableau.com/views/Dementia_Medicare_Community_Explorer_221021/Homepage?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe>
 
-  https://public.tableau.com/views/Dementia_Medicare_Community_Explorer_221021/Homepage?:language=en-US&:display_count=n&:origin=viz_share_link
 <br>
 
 <br><br>
