@@ -28,12 +28,12 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
   
 
-<meta name="twitter:title" content="Dementia Prevalence and the Community Explorer">
+<meta name="twitter:title" content=" the Community Explorer and Dementia">
 <meta name="twitter:description" content="A new look at the prevalence of dementia across the US counties using the Community Explorer profiles.">
 <meta name="twitter:image" content="https://claudelopez.com/wp-content/uploads/2022/10/CE-and-Dementia.png">
 <meta name="twitter:card" content="summary_large_image">
 
-<meta property="og:title" content="Community Explorer">
+<meta property="og:title" content="Community Explorer and Dementia">
 <meta property="og:description" content="A new look at the prevalence of dementia across the US counties using the Community Explorer profiles.">
 <meta property="og:image" content="https://claudelopez.com/wp-content/uploads/2022/10/CE-and-Dementia.png">
 <meta property="og:image:url" content="https://claudelopez.com/wp-content/uploads/2022/10/CE-and-Dementia.png">
