@@ -9,13 +9,12 @@
   gtag('config', 'UA-166686264-2');
 </script>
 
-  <!-- Default Statcounter code for CE 17
-https://miresearch.github.io/Community-Explorer-17-profiles/
--->
+  <!-- Default Statcounter code for CE/dementia
+https://miresearch.github.io/dementia/ -->
 <script type="text/javascript">
-var sc_project=12724919; 
+var sc_project=12810098; 
 var sc_invisible=1; 
-var sc_security="161ec0d3"; 
+var sc_security="038a1f38"; 
 </script>
 <script type="text/javascript"
 src="https://www.statcounter.com/counter/counter.js"
@@ -23,23 +22,23 @@ async></script>
 <noscript><div class="statcounter"><a title="Web Analytics"
 href="https://statcounter.com/" target="_blank"><img
 class="statcounter"
-src="https://c.statcounter.com/12724919/0/161ec0d3/1/"
+src="https://c.statcounter.com/12810098/0/038a1f38/1/"
 alt="Web Analytics"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
   
 
-<meta name="twitter:title" content="Community Explorer">
-<meta name="twitter:description" content="The Community Explorer is an interactive tool that brings the power of big data and machine learning to the equity-related policy discussion. It sorts 751 behavioral, demographic, economic, and social factors across 3,192 US counties into 17 community profiles.">
+<meta name="twitter:title" content="Dementia Prevalence and the Community Explorer">
+<meta name="twitter:description" content="A new look at the prevalence of dementia across the US counties using the Community Explorer profiles.">
 <meta name="twitter:image" content="https://claudelopez.com/wp-content/uploads/2022/10/Screenshot-2022-10-14-160248.png">
 <meta name="twitter:card" content="summary_large_image">
 
 <meta property="og:title" content="Community Explorer">
-<meta property="og:description" content="The Community Explorer sorts 751 behavioral, demographic, economic, and social factors across 3,142 US counties into 17 community profiles. ;">
+<meta property="og:description" content="A new look at the prevalence of dementia across the US counties using the Community Explorer profiles.">
 <meta property="og:image" content="https://claudelopez.com/wp-content/uploads/2022/10/Screenshot-2022-10-14-160248.png">
 <meta property="og:image:url" content="https://claudelopez.com/wp-content/uploads/2022/10/Screenshot-2022-10-14-160248.png">
 <meta property="og:image:secure_url" content="https://claudelopez.com/wp-content/uploads/2022/10/Screenshot-2022-10-14-160248.png">
-<meta property="og:url" content="https://miresearch.github.io/Community-Explorer/">
+<meta property="og:url" content="https://miresearch.github.io/dementia/">
 
 </head>
 
